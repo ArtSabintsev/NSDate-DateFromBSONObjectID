@@ -7,7 +7,7 @@
 
 ### Installation Instructions:
 
-1. Copy the 'Harpy' folder into your Xcode project. The following files will be added:
+1. Copy the **NSDate+DateFromBSONObjectID** folder into your Xcode project. The following files will be added:
 	1. NSDate+DateFromBSONObjectID.h
 	1. NSDate+DateFromBSONObjectID.m
 1. After importing the header, use the following code to extract the timestamp:
